@@ -15,7 +15,7 @@ To understand how repository work
 I Deployed the starter-web repository
 
 ## How to Contribute
-Just Creating the New Files.
+Please fork this Repository and then issue pull requests for review
 
 ### Copyright
 
