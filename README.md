@@ -16,3 +16,7 @@ I Deployed the starter-web repository
 
 ## How to Contribute
 Just Creating the New Files.
+
+### Copyright
+
+2014 Git.Training
